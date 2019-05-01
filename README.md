@@ -1,5 +1,9 @@
 # Virtual to Real NeedRead
 
+**Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training**
+http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Zou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf
+
+
 Visual Object Networks: Image Generation with Disentangled 3D Representation
 paper:https://arxiv.org/pdf/1812.02725.pdf
 github:https://github.com/junyanz/VON
@@ -65,5 +69,4 @@ https://arxiv.org/pdf/1812.05040.pdf
 Deep Visual Domain Adaptation: A Survey
 https://arxiv.org/pdf/1802.03601v4.pdf
 
-Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training
-http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Zou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf
+
